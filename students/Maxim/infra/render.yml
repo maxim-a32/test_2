@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: maxim-app
+    runtime: image
+    image:
+      url: docker.io/maxima32/maxim-app:latest
+    plan: free
