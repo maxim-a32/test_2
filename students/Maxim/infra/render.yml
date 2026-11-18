@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: maxim-app
+    name: devops-h16g
     runtime: image
     image:
       url: docker.io/maxima32/maxim-app:latest
