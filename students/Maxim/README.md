@@ -8,7 +8,8 @@
 ---
 
 ## Структура проєкту
-```text
+```test_2
+.github/workflows/      # CI/CD пайплан для автоматичної перевірки
 students/Maxim/
 ├── src/                # Код застосунку (index.html)
 ├── .github/workflows/  # Копія CI/CD пайплайну
