@@ -10,7 +10,7 @@
 ## Структура проєкту
 ```test_2
 .github/workflows/      
-├── ci.yml              # CI/CD пайплан
+└── ci.yml              # CI/CD пайплан
 students/Maxim/
 ├── src/                # Код застосунку (index.html)
 ├── .github/workflows/  # Копія CI/CD пайплайну
